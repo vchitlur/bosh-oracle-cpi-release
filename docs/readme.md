@@ -6,7 +6,7 @@ any architecture diagram / rough conceptual diagram? How can i use it?
 
 * Get access to Oracle Cloud Infrastructure (OCI) with (Admin?) privileges 
 Make sure that you have access to Oracle Cloud Infrastructure. See [OCI Concepts Documentation](https://docs.us-phoenix-1.oraclecloud.com/Content/GSG/Concepts/concepts.htm) to learn about these concepts.
-* Set up an environment. See[Initializing a Cloud Foundry / BOSH deployment](https://github.com/oracle/terraform-oci-cf-install)
+* Set up an environment. See [Initializing a Cloud Foundry / BOSH deployment](https://github.com/oracle/terraform-oci-cf-install)
 * Deploy BOSH Director on OCI
    a. Director instance. Refer to [Deploying BOSH Director Guide](docs/deploy_director.md)
    b. Bastion (need to install this separately?)
@@ -47,5 +47,5 @@ to remove all the versions of this release under ./dev_releases
 
 ## Community? Support? or how they can contribute?
 
-## CF or BOsh code of conduct?
+## CF or Bosh code of conduct?
 
