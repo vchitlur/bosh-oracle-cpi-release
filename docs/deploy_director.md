@@ -21,6 +21,10 @@ Creating a BOSH director environment (****Do we need to push this to the end?? I
 
 
 (Need to add this somewhere - Using [BOSH CLI v2 create-env](https://bosh.io/docs/cli-v2#create-env)  create-env command to create a director environment)
+
+
+
+Not sure if this is the right place for these two:
 ## Install bosh cli
 ```
   $ ./install_deps.sh
