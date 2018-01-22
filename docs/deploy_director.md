@@ -12,7 +12,7 @@ Pictorially this can be represented as
 
 You can use the [Terraform OCI CF/BOSH installer](https://github.com/oracle/terraform-oci-cf-install) to create VCN, Subnets, Security Lists, and Bastion instance.
 
-Creating a BOSH director environment (****Do we need to push this to the end?? I thought we will install first and then set the env.)
+Creating a BOSH director environment
 
     SSH into the bastion instance created by the Terraform OCI CF/BOSH installer
     The installer places two files under $HOME
