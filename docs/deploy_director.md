@@ -20,7 +20,7 @@ Creating a BOSH director environment (****Do we need to push this to the end?? I
         director-env-vars.yml -- A BOSH variables file containing the values for variables referred to by various ops files
 
 
-(Need to add this somewhere - Using BOSH CLI v2 create-env command to create a director environment)
+(Need to add this somewhere - Using [BOSH CLI v2 create-env](https://bosh.io/docs/cli-v2#create-env)  create-env command to create a director environment)
 ## Install bosh cli
 ```
   $ ./install_deps.sh
