@@ -19,15 +19,20 @@ Creating a BOSH director environment (****Do we need to push this to the end?? I
         install_deps.sh -- Executable script for installing the bosh cli v2 and its dependencies (make, ruby)
         director-env-vars.yml -- A BOSH variables file containing the values for variables referred to by various ops files
 
+
+(Need to add this somewhere - Using BOSH CLI v2 create-env command to create a director environment)
 ## Install bosh cli
-
+------
   $ ./install_deps.sh
+-------
 
-    Clone this repo to get OCI specific ops files and bosh cli wrapper scripts
-
+Clone this repo to get OCI specific ops files and bosh cli wrapper scripts
+-------
   $ git clone https://github.com/oracle/bosh-oracle-cpi-release.git
+-------
 
 ### Deploy the director and set the environment
 
    $ cd bosh-oracle-cpi-release/bosh-deployment
+   
    $ ./create-env.sh 
