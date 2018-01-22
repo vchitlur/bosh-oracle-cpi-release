@@ -8,7 +8,7 @@ any architecture diagram / rough conceptual diagram? How can i use it?
 Make sure that you have access to Oracle Cloud Infrastructure. See [OCI Concepts Documentation](https://docs.us-phoenix-1.oraclecloud.com/Content/GSG/Concepts/concepts.htm) to learn about these concepts.
 * Set up an environment. See [Initializing a Cloud Foundry / BOSH deployment](https://github.com/oracle/terraform-oci-cf-install)
 * Deploy BOSH Director on OCI
-   a. Director instance. Refer to [Deploying BOSH Director Guide](docs/deploy_director.md)
+   a. Director instance. Refer to [Deploying BOSH Director](docs/deploy_director.md)
    b. Bastion (need to install this separately?)
    c. Manifest, development.yml and cloud-config
 * Install [BOSH CLI v2](https://bosh.io/docs/cli-v2.html#install)
