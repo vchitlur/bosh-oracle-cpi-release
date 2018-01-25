@@ -1,5 +1,7 @@
 ## Initializing a Cloud Foundry / BOSH deployment
 
+Format is different - discuss with Dhiraj.
+
 This project exists to simplify the configuration and deployment of Cloud Foundry and BOSH on
 Oracle Cloud Infrastructure. It will configure the following:
 * VCN and Subnets
