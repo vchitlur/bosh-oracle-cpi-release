@@ -1,4 +1,4 @@
-# Oracle CPI and Cloud Config
+# Oracle CPI and Cloud Config - not reviewed yet. 
 
 This document describes the required Oracle cloud specific properties in [Cpi](https://bosh.io/docs/cpi-config.html) and [Cloud](https://bosh.io/docs/cloud-config.html) config for deploying a BOSH release to Oracle Cloud Infrastructure. 
   
